@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="delete">Удалить</string>
+    <string name="number">Номер</string>
+</resources>
